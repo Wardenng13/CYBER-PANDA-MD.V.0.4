@@ -12,7 +12,7 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
@@ -21,9 +21,9 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+25569181313", "+255699181313"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+25569181313", "+25569181313"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
+global.Owner = ["+255699181313", "+255699181313"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+255699181313", "+255699181313"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+255699181313"];
 global.OwnerName = "WARDEN";
 global.BotName = "WARDEN";
 global.packname = "🦋 WARDEN 🦋";                             //Do not change.
@@ -46,7 +46,7 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "kushan";
+global.lolhuman = "WARDEN";
 
 
 //
